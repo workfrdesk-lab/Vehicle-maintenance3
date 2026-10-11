@@ -1,0 +1,8 @@
+{
+  "name": "3 نظام بطاقة صيانة المركبات",
+  "description": "نظام ويب متكامل لإدارة وتحرير بطاقات صيانة المركبات، وتسجيل الدخول والخروج، وإدخال تفاصيل الصيانة والقطع المستبدلة وطباعتها وتصديرها كملفات PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
